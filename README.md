@@ -30,6 +30,9 @@ Repositório com os slides das aulas apresentados em sala.
 - Este material é de apoio às aulas
 - Os exemplos e explicações completas são apresentados em sala
 
+<img src='logo-so.png' width=25% />
+
+
 ---
 
 ## 👨‍🏫 Professor Parisotto
