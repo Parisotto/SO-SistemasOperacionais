@@ -1,3 +1,5 @@
+<img src='logo-so.png' width=300 />
+
 # 📘 Sistemas Operacionais
 
 Repositório com os slides das aulas apresentados em sala.
