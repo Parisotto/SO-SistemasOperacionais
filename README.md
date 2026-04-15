@@ -1,4 +1,4 @@
-<img src='logo-so.png' width=300 />
+<img src='banner-so.png' width=100% />
 
 # 📘 Sistemas Operacionais
 
