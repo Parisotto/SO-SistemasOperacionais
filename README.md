@@ -15,6 +15,9 @@ Repositório com os slides das aulas apresentados em sala.
 - [Aula 03 — Tipos e Estruturas de SO](./a03-Tipos-Estruturas-SO/slides.pdf)
 - [Aula 04 — Chamadas e Interrupções do SO](./a04-Chamada-Interrupcao/slides.pdf)
 - [Aula 05 — Processos](./a05-Processos/slides.pdf)
+- [Aula 06 — Escalonamento](./a06-Escalonamento/slides.pdf)
+- [Aula 07 — Escalonamento 2](./a07-Escalonamento2/slides.pdf)
+- [Aula 08 — Threads](./a08-Threads/slides.pdf)
 ---
 
 ## 📌 Como usar
